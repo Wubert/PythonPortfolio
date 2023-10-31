@@ -1,4 +1,4 @@
-# PythonPortfolio
+PythonPortfolio
 
 Hello there!
 
@@ -6,4 +6,4 @@ This is my Python Portfolio repository. You can find here my personal projects I
 
 * Sudoku game
 
-I hope you find these projects intresting. Enjoy!
+I hope you'll find these projects interesting. Enjoy!
